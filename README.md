@@ -1,7 +1,7 @@
 There are so many good developer sites, just like a sea.
 
 # Websites
-Collection of web sites that web developer should know. [Click Me](http://gyf1.com/websites)
+Collection of websites that web developer should know. [Click Me](http://gyf1.com/websites)
 
 # Background
 There are already existed some awesome collections, like [js-the-right-way](http://jstherightway.org/) and so on.
